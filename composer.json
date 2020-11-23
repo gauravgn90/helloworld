@@ -9,7 +9,7 @@
             "email": "gaurav.kumar07@nagarro.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"GauravKumar\\HelloWorld\\": "src/"}
     },
